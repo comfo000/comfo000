@@ -9,3 +9,4 @@ These are the projects I do
 
 **Languages:**  
 <code><img height="20" src="https://icon2.cleanpng.com/20180810/cxt/kisspng-oracle-certified-professional-java-se-programmer-c-grails-development-groovy-development-grails-d-5b6dde2478a285.7026776415339269484941.jpg"></code> 
+<code><img height="20" src="https://kotlinexpertise.com/wp-content/uploads/2018/04/cropped-pCfEzr6L_400x400.png"></code>

@@ -2,7 +2,7 @@
 
 <br />
 <br />
-These are the projects I do:\
+These are the projects I do
 
 - 🔭 I’m currently working on [TB-Client](https://tb-client.pl) Project
 - 🌱 I’m currently working on [TB-C0de](https://github.com/TB-C0de) Project
